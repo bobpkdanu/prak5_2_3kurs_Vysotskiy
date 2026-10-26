@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">prak5_2_Vysotskiy</string>
+    <string name="login_title">Авторизация</string>
+    <string name="hint_username">Имя пользователя</string>
+    <string name="hint_password">Пароль</string>
+    <string name="btn_login">Войти</string>
+    <string name="error_empty_fields">Заполните все поля!</string>
+    <string name="hint_isbn">Введите ISBN книги (напр. 9780140328721)</string>
+    <string name="btn_search">Найти книгу</string>
+    <string name="btn_save">Сохранить в историю</string>
+    <string name="btn_history">История поиска</string>
+    <string name="book_not_found">Книга не найдена. Проверьте ISBN.</string>
+    <string name="book_saved">Книга сохранена!</string>
+    <string name="hint_note">Заметка о книге</string>
+    <string name="btn_update">Обновить</string>
+    <string name="emptySavefirst">Список пуст, сохраните первую книгу</string>
+    <string name="SavedBooks">Сохранённые книги</string>
+    <string name="saveHistory">Сохранить в историю</string>
+    <string name="HistorySearch">История поиска</string>
+    <string name="SearchBook">Найти книгу</string>
+    <string name="isbn">Введите ISBN (напр. 9780140328721)</string>
+    <string name="findIsbn">Поиск книги по ISBN</string>
+    <string name="Enter">Войти</string>
+    <string name="PassInput">Пароль</string>
+    <string name="UserInput">Имя пользователя</string>
+    <string name="Authorization">Авторизация</string>
+    <string name="LogOut">Выйти из аккаунта</string>
+</resources>
